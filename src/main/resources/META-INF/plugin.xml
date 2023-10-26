@@ -1,0 +1,29 @@
+<idea-plugin>
+	<id>com.github.bannirui.leetcode-helper</id>
+	<name>Leetcode-helper</name>
+	<version>1.0.0</version>
+	<vendor email="Bannirui@outlook.com" url="https://github.com/Bannirui/orm-generator">Bannirui</vendor>
+
+	<description><![CDATA[
+    leetcode helper<br>
+    <ul>
+		<li>Login and logout.</li>
+		<li>Fetch list.</li>
+		<li>Problem description.</li>
+		<li>Solution test and submit.</li>
+    </ul>
+    ]]></description>
+
+	<change-notes><![CDATA[
+	<p>1.0.0</p>
+		<ul>
+			<li>Login and logout.</li>
+		</ul>
+	]]></change-notes>
+
+	<depends>com.intellij.modules.platform</depends>
+
+	<extensions defaultExtensionNs="com.intellij">
+
+	</extensions>
+</idea-plugin>
