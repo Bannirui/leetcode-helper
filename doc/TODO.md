@@ -1,6 +1,6 @@
 ## ToDo
 
-- [ ] project init
+- [X] project init
 - [ ] freemarker
 - [ ] user name and pwd state
 - [ ] http prototype, login
